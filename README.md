@@ -83,6 +83,7 @@ https://www.postgresql.org/docs/9.6/static/auto-explain.html
 https://www.postgresql.org/docs/9.6/functions-srf.html
 https://www.postgresql.org/docs/9.6/functions-window.html
 https://www.postgresql.org/docs/9.6/queries-table-expressions.html#QUERIES-GROUPING-SETS
+
 --
 
 https://github.com/dhamaniasad/awesome-postgres
