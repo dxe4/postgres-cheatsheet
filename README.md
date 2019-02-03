@@ -72,6 +72,8 @@ SELECT nspname || '.' || relname AS "relation",
 
 # Links
 
+https://wiki.postgresql.org/wiki/Main_Page
+
 https://www.citusdata.com/blog/
 
 https://postgresweekly.com/
