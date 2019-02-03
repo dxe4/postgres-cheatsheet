@@ -80,6 +80,10 @@ https://postgresweekly.com/
 
 https://blog.2ndquadrant.com/
 
+http://www.craigkerstiens.com/
+
+https://tapoueh.org/
+
 --
 
 https://www.postgresql.org/docs/9.4/static/pgstatstatements.html
@@ -111,3 +115,5 @@ https://medium.com/@hakibenita/be-careful-with-cte-in-postgresql-fca5e24d2119
 https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677
 
 https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067
+
+https://tapoueh.org/blog/2018/07/postgresql-concurrency-isolation-and-locking/
