@@ -81,9 +81,13 @@ https://blog.2ndquadrant.com/
 --
 
 https://www.postgresql.org/docs/9.4/static/pgstatstatements.html
+
 https://www.postgresql.org/docs/9.6/static/auto-explain.html
+
 https://www.postgresql.org/docs/9.6/functions-srf.html
+
 https://www.postgresql.org/docs/9.6/functions-window.html
+
 https://www.postgresql.org/docs/9.6/queries-table-expressions.html#QUERIES-GROUPING-SETS
 
 --
@@ -93,7 +97,9 @@ https://github.com/dhamaniasad/awesome-postgres
 -- 
 
 https://www.pgcli.com/
+
 https://www.postgresql.org/docs/10/static/pgbench.html
+
 https://github.com/grayhemp/pgtoolkit
 
 --
