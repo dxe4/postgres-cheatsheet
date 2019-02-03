@@ -107,3 +107,5 @@ https://github.com/grayhemp/pgtoolkit
 https://medium.com/@hakibenita/be-careful-with-cte-in-postgresql-fca5e24d2119
 
 https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677
+
+https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067
