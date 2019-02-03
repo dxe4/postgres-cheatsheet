@@ -72,9 +72,11 @@ SELECT nspname || '.' || relname AS "relation",
 
 # Links
 
-https://blog.2ndquadrant.com/
 https://www.citusdata.com/blog/
+
 https://postgresweekly.com/
+
+https://blog.2ndquadrant.com/
 
 --
 
